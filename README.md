@@ -9,4 +9,4 @@ My name's Oscar and I'm highschool student hailing from the beautiful city of Sa
 <br><br><br><br><br><br><br>
 
 Some things I've done:
-- :hammer:[.hammerspoon](https://github.com/ocapraro/.hammerspoon): My hammerspoon config
+- [.hammerspoon](https://github.com/ocapraro/.hammerspoon): My hammerspoon config
