@@ -11,3 +11,8 @@ Check out:
 <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=ocapraro&show_icons=true&theme=dark&count_private=true" />
 <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocapraro&theme=dark&layout=compact&count_private=true" />
 </a></div>
+
+<br><br><br><br><br><br><br>
+<div>
+<img align="left" width="765em" src="https://grepper-readme-embeds.vercel.app/api/activity?name=Oscar%20Capraro&id=44392" />
+</div>
