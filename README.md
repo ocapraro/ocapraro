@@ -5,6 +5,10 @@ I'm highschool student hailing from the beautiful city of San Francisco.
 Check out:
 - [My hammerspoon config](https://github.com/ocapraro/.hammerspoon): How I manage my mac windows
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <br>
 
 <div width="100%"><a href="https://github.com/anuraghazra/github-readme-stats">
