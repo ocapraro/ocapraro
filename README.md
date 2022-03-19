@@ -4,6 +4,7 @@ I'm Oscar Capraro, a highschool student hailing from the beautiful city of San F
 
 Check out:
 - [My hammerspoon config](https://github.com/ocapraro/.hammerspoon): How I manage my mac windows
+- [Grepper README Embeds](https://github.com/ocapraro/grepper-readme-embeds): Embedding [codeGrepper](codegrepper.com) stats in GitHub READMEs
 
 
 <!--START_SECTION:waka-->
