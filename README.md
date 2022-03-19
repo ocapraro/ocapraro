@@ -1,5 +1,5 @@
 # Howdy :wave:
-I'm highschool student hailing from the beautiful city of San Francisco.
+I'm Oscar Capraro, a highschool student hailing from the beautiful city of San Francisco.
 
 
 Check out:
