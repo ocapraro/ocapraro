@@ -6,7 +6,7 @@ Check out:
 - [My hammerspoon config](https://github.com/ocapraro/.hammerspoon): How I manage my mac windows
 - [Grepper README Embeds](https://github.com/ocapraro/grepper-readme-embeds): Embedding [codeGrepper](codegrepper.com) stats in GitHub READMEs
 
-
+## Stats
 <!--START_SECTION:waka-->
 
 ```text
@@ -16,8 +16,6 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-<br>
 
 <div width="100%"><a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=ocapraro&show_icons=true&theme=dark&count_private=true" />
