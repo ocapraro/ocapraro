@@ -8,6 +8,13 @@ Check out:
 
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   26 mins         ███████████████████░░░░░░   75.83 %
+Markdown     8 mins          ██████░░░░░░░░░░░░░░░░░░░   24.07 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+```
+
 <!--END_SECTION:waka-->
 
 <br>
