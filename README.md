@@ -26,12 +26,12 @@ Check out:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   11 hrs 34 mins  ██████████▓░░░░░░░░░░░░░░   42.79 %
-JavaScript   8 hrs 37 mins   ████████░░░░░░░░░░░░░░░░░   31.89 %
-CSS          3 hrs 14 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
-Lua          1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
-Markdown     1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
-Git Config   48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+TypeScript   16 hrs 18 mins  ████████████░░░░░░░░░░░░░   48.00 %
+JavaScript   8 hrs 39 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.49 %
+CSS          3 hrs 55 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
+Markdown     2 hrs 26 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+Lua          56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+Git Config   44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 ```
 
 <!--END_SECTION:waka-->
