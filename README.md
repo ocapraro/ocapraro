@@ -26,10 +26,7 @@ Check out:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   48 mins         ████████████████████████▒   97.13 %
-CSS          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+JavaScript   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
