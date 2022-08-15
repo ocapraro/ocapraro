@@ -26,9 +26,7 @@ Check out:
 <!--START_SECTION:waka-->
 
 ```text
-CSS    20 mins         ███████████████████▒░░░░░   77.00 %
-Lua    4 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.48 %
-JSON   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
