@@ -1,5 +1,5 @@
 # Howdy :wave:
-I'm Oscar Capraro, an Undergraduiate student at RIT.
+I'm Oscar Capraro, an Undergraduate student at RIT.
 
 
 Check out:
