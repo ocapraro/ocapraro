@@ -13,8 +13,7 @@ Check out:
 <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocapraro&theme=dark&layout=compact&count_private=true" />
 </a></div>
 
-<br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 📊 this week i spent my time on:
 <!--START_SECTION:waka-->
 
