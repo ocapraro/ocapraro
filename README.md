@@ -19,9 +19,7 @@ Check out:
 <!--START_SECTION:waka-->
 
 ```text
-Python       39 mins         ████████████████████████░   96.36 %
-Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
