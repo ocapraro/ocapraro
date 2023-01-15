@@ -19,9 +19,7 @@ Check out:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   24 mins         ████████████████████▒░░░░   80.73 %
-Markdown     5 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.57 %
-JSON         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
