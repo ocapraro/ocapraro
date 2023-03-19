@@ -19,9 +19,7 @@ Check out:
 <!--START_SECTION:waka-->
 
 ```text
-Java         1 hr 29 mins    ███████████████████████░░   91.36 %
-Text         8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
