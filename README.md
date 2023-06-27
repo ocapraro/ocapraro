@@ -19,8 +19,7 @@ Check out:
 <!--START_SECTION:waka-->
 
 ```txt
-Other   10 mins         ████████████████████████░   96.05 %
-XML     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
