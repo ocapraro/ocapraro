@@ -19,8 +19,7 @@ Check out:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   7 mins          ███████████████████▓░░░░░   79.00 %
-Text       1 min           █████▒░░░░░░░░░░░░░░░░░░░   21.00 %
+Text   16 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
