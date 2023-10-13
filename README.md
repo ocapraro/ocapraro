@@ -19,11 +19,7 @@ Check out:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       24 mins         █████████████░░░░░░░░░░░░   51.94 %
-Other        14 mins         ███████▒░░░░░░░░░░░░░░░░░   29.85 %
-Ezhil        7 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.51 %
-GDScript     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
