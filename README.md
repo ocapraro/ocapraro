@@ -19,7 +19,8 @@ Check out:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   0 secs          █████████████████████████   100.00 %
+Python   12 mins         ████████████████████▒░░░░   81.96 %
+Lua      2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.04 %
 ```
 
 <!--END_SECTION:waka-->
