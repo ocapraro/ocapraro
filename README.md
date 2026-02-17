@@ -3,8 +3,8 @@ I'm Oscar Capraro, an Undergraduate student at RIT.
 
 
 Check out:
-- [My hammerspoon config](https://github.com/ocapraro/.hammerspoon): How I manage my mac windows
 - [Obsidian Math+](https://github.com/ocapraro/obsidian-math-plus): An [Obsidian](https://obsidian.md/) plugin for taking math notes using [Excalidraw](https://github.com/excalidraw/excalidraw)
+- [MacOS CIS Benchmark Audit](https://github.com/ocapraro/cis-benchmark-macos-audit): Auditing software for MacOS based on the CIS benchmarks
 
 ## Stats
 
