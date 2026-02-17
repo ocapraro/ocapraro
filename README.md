@@ -10,6 +10,7 @@ Check out:
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
+
 📊 this week i spent my time on:
 <!--START_SECTION:waka-->
 
