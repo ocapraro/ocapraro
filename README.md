@@ -10,9 +10,6 @@ Check out:
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
-
-<br><br><br><br><br><br><br><br>
 📊 this week i spent my time on:
 <!--START_SECTION:waka-->
 
